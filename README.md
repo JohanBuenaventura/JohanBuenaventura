@@ -5,7 +5,6 @@ I am a software developer passionate about building clean, efficient, and user-f
 - 🔭 I’m currently working on sharpening my full-stack development skills.
 - 🌱 I’m currently diving deeper into Django and modern backend architectures.
 - 💬 Ask me about web development, UI design, or building databases.
-- 📫 How to reach me: [Your Email Here] or [Your LinkedIn Link Here]
 
 ---
 
