@@ -28,14 +28,16 @@ I am a software developer passionate about building clean, efficient, and user-f
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
 ### 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=johanbuenaventura&show_icons=true&theme=vision-friendly-dark&ranking_badge=true" alt="Johan's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanbuenaventura&layout=compact&theme=vision-friendly-dark" alt="Johan's Top Languages" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohanBuenaventura&theme=dracula" alt="Johan's Profile Details" height="180" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JohanBuenaventura&theme=dracula" alt="Johan's Top Languages" height="180" />
 </p>
 
+🛸 **My Contribution Graph:**
+![](https://github-readme-activity-graph.vercel.app/graph?username=JohanBuenaventura&theme=react-dark)
 ---
 
 ### 🤝 Connect with Me
